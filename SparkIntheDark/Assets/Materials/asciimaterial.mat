@@ -106,11 +106,11 @@ Material:
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
     - _CharCount: 10
-    - _CharHeight: 0.449
-    - _CharWidth: 0.324
+    - _CharHeight: 0.53
+    - _CharWidth: 0.332
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
-    - _Columns: 111.65
+    - _Columns: 80
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
